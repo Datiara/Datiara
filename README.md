@@ -20,20 +20,14 @@ J'automatise des déploiements et je construis des pipelines de données — **K
 
 ## 🗂️ Mes projets
 
-### ⚙️ DevOps / Infrastructure
+> **État** : ✅ Abouti / Validé · 🚧 En cours · 🎓 Labs
 
-| Projet | Description | Stack |
-|---|---|---|
-| [**ansible_exam**](https://gitlab.com/datiara/public/ansible_exam) | Déploiement automatisé d'une boutique PrestaShop + MySQL | Ansible · rôles · Vault · tests |
-| [**crypto-bot-showcase**](https://gitlab.com/datiara/public/crypto-bot-showcase) | Étude de cas : plateforme crypto sur Kubernetes auto-hébergé, en GitOps | Talos · ArgoCD · GitLab CI |
-| [**learn/argocd**](https://gitlab.com/datiara/public/learn/argocd) | Labs & expérimentations GitOps | ArgoCD · Kubernetes |
-
-### 🛢️ Data Engineering
-
-| Projet | Description | Stack |
-|---|---|---|
-| [**joblake**](https://gitlab.com/datiara/public/joblake) | Data Lake d'offres d'emploi, matchées à un CV par embeddings sémantiques | ingestion · APIs + scraping · embeddings |
-| [**industrial-data-sync**](https://gitlab.com/datiara/public/industrial-data-sync) | Pipeline ETL bidirectionnel ERP ↔ MES (données fictives, *from scratch*) | Prefect 3 · AWS serverless |
+| Projet | Description | Stack | État |
+|---|---|---|---|
+| [**crypto-bot-showcase**](https://gitlab.com/datiara/public/crypto-bot-showcase) | Étude de cas : plateforme crypto sur Kubernetes auto-hébergé, en GitOps | Talos · ArgoCD · GitLab CI | ✅ Étude de cas |
+| [**ansible_exam**](https://gitlab.com/datiara/public/ansible_exam) | Déploiement automatisé d'une boutique PrestaShop + MySQL | Ansible · Vault · tests | ✅ Validé |
+| [**joblake**](https://gitlab.com/datiara/public/joblake) | Data Lake d'offres d'emploi, matchées à un CV par embeddings sémantiques | Python · embeddings | 🚧 En cours |
+| [**learn/argocd**](https://gitlab.com/datiara/public/learn/argocd) | Labs & expérimentations GitOps | ArgoCD · Kubernetes | 🎓 Labs |
 
 ### 📄 Profil
 
