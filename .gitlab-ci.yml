@@ -1,0 +1,8 @@
+# Miroir vers le repo profil GitHub (nom différent : Datiara/Datiara)
+include:
+  - project: 'datiara/public/ci-templates'
+    file: '/mirror-to-github.yml'
+
+mirror_to_github:
+  variables:
+    GITHUB_REPO: "Datiara"
