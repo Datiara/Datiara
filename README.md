@@ -16,6 +16,8 @@ J'automatise des déploiements et je construis des pipelines de données — **K
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white">
 </p>
 
+> 🛠️ **Profil hybride** : **19 ans** en ingénierie / développement embarqué industriel (C/C++/C#), aujourd'hui spécialisée **data & platform engineering**.
+
 ---
 
 ## 🗂️ Mes projets
@@ -38,23 +40,21 @@ J'automatise des déploiements et je construis des pipelines de données — **K
 
 ## 🧰 Compétences
 
-> **Niveau** : 🟢 Avancé · 🟡 Intermédiaire · ⚪ Notions — **Contexte** : 🏭 Pro (Neolithe) · 🚀 Projets perso · 🎓 Formation
+> **Niveau** : 🟢 Avancé · 🟡 Intermédiaire · 🟠 Bases · ⚪ Notions — **Contexte** : 🏭 Pro (Neolithe) · 🚀 Projets perso · 🎓 Formation
 
 | Domaine | Technologies (Niveau) | Contexte |
-|---|---|---|---|
-| **Conteneurs & Orchestration** | Kubernetes (🟡) · Talos (🟡) · Docker (🟢)· Helm (🟡)· Kustomize (🟡) · Proxmox (🟡) | 🏭 🚀 |
-| **CI/CD & GitOps** | GitLab CI/CD (🟢)· ArgoCD (🟢)· Sealed Secrets (🟡)· Ansible (🟡) | 🏭 🚀 |
-| **Data Engineering & Orchestration** | Prefect 3 (🟢)· Airbyte (🟡)· ETL/ELT (🟡)· dbt (🟡)· Airflow (🟡) | 🏭 🚀 🎓 |
-| **Observabilité** | Grafana (🟡)· Loki (🟡)· Promtail (🟡)· alerting (🟢) | 🏭 🚀 |
-| **Qualité & Sécurité** | SAST (Semgrep/Bandit/Ruff) (🟡)· OAuth2 / Azure AD (🟡)· RGPD (🟡) | 🏭 |
-| **Bases de données** | PostgreSQL (🟡)· MariaDB (🟡)· SQL Server (🟡)· MongoDB (🟡)· Redis (🟡)· MinIO (🟡) | 🏭 🎓 |
-| **Développement** | Python (🟢)· FastAPI (🟢)· Streamlit (🟡)· Frappe (🟢)· SQL (🟢)· Bash (🟢) | 🏭 🚀 |
-| **Cloud** | AWS *(Cloud Practitioner ✓, SAA en cours)* (🟡)· Azure | 🟡 | 🚀 + certif |
-| **Big Data** | PySpark (⚪)· Kafka (⚪)· Flink (⚪)· Snowflake (⚪)· BigQuery (⚪)· Hadoop (⚪) | 🎓 |
-| **ML / MLOps** | scikit-learn (⚪)· Keras (⚪)· MLflow (⚪)· Drift Monitoring (⚪) | 🎓 |
-| **BI / Data Viz** | Power BI (🟡)· Looker Studio (⚪)· Superset (🟡)· Dash (⚪) | 🏭 🎓 |
+|---|---|---|
+| **Développement** | Python (🟢) · Frappe (🟢) · SQL (🟢) · Bash (🟢) · FastAPI (🟡) · Streamlit (⚪) | 🏭 🚀 |
+| **CI/CD & GitOps** | GitLab CI/CD (🟢) · ArgoCD (🟢) · Ansible (🟡) · Sealed Secrets (🟠) · Terraform (⚪) | 🏭 🚀 |
+| **Data Engineering & Orchestration** | Prefect 3 (🟢) · ETL/ELT (🟡) · Airbyte (⚪) · dbt (⚪) · Airflow (⚪) | 🏭 🚀 🎓 |
+| **Qualité & Sécurité** | SAST — Semgrep/Bandit/Ruff (🟡) · OAuth2 / Azure AD (🟡) · RGPD (🟡) | 🏭 |
+| **Bases de données** | PostgreSQL (🟠) · MariaDB (🟠) · SQL Server (🟠) · MongoDB (⚪) · Redis (⚪) · MinIO (⚪) | 🏭 🎓 |
+| **Conteneurs & Orchestration** | Docker (🟠) · Kubernetes (🟠) · Helm (🟠) · Proxmox (🟠) · Talos (🟠) · Kustomize (🟠) | 🏭 🚀 |
+| **Observabilité** | alerting (🟠) · Grafana (🟠) · Loki (⚪) · Promtail (⚪) | 🏭 🚀 |
+| **BI / Data Viz** | Power BI (🟠) · Superset (🟠) · Looker Studio (⚪) · Dash (⚪) | 🏭 🎓 |
+| **Cloud** | AWS — parcours Cloud Quest Practitioner *(formation, pas la certif)* · SAA en cours (🟠) · Azure (⚪) | 🚀 🎓 |
 
-*Profil hybride : **19 ans** en développement embarqué industriel (C/C++/C#) + spécialisation data & platform engineering.*
+> 🔭 **En veille / découverte** *(formation, pas encore mis en pratique)* : PySpark · Kafka · Flink · Snowflake · BigQuery · Hadoop · scikit-learn · Keras · MLflow · Drift Monitoring
 
 ---
 
