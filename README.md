@@ -2,8 +2,8 @@
 
 ### Data / DevOps Engineer
 
-J'automatise des déploiements et je construis des pipelines de données — **Kubernetes & GitOps**,
-**CI/CD**, **Infrastructure as Code** et **Data Engineering**.
+Après **19 ans** en logiciel embarqué industriel (C/C++/C#), je me suis tournée vers la **data** et le **platform engineering**.
+Aujourd'hui je construis des **pipelines ETL** et les plateformes **Kubernetes / GitOps** qui les font tourner — avec la même exigence de fiabilité, sur un nouveau terrain de jeu.
 
 <p>
   <img alt="Ansible"    src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white">
@@ -12,11 +12,9 @@ J'automatise des déploiements et je construis des pipelines de données — **K
   <img alt="GitLab CI"  src="https://img.shields.io/badge/CI%2FCD-GitLab-FC6D26?logo=gitlab&logoColor=white">
   <img alt="Docker"     src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
   <img alt="Python"     src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
-  <img alt="AWS"        src="https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white">
+  <img alt="Prefect"    src="https://img.shields.io/badge/Prefect-024DFD?logo=prefect&logoColor=white">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white">
 </p>
-
-> 🛠️ **Profil hybride** : **19 ans** en ingénierie / développement embarqué industriel (C/C++/C#), aujourd'hui spécialisée **data & platform engineering**.
 
 ---
 
@@ -47,6 +45,7 @@ J'automatise des déploiements et je construis des pipelines de données — **K
 | **Développement** | Python (🟢) · Frappe (🟢) · SQL (🟢) · Bash (🟢) · FastAPI (🟡) · Streamlit (⚪) | 🏭 🚀 |
 | **CI/CD & GitOps** | GitLab CI/CD (🟢) · ArgoCD (🟢) · Ansible (🟡) · Sealed Secrets (🟠) · Terraform (⚪) | 🏭 🚀 |
 | **Data Engineering & Orchestration** | Prefect 3 (🟢) · ETL/ELT (🟡) · Airbyte (⚪) · dbt (⚪) · Airflow (⚪) | 🏭 🚀 🎓 |
+| **Automatisation low-code** | Power Automate (🟡) · PowerApps (🟡) · SharePoint (🟡) · Microsoft 365 (🟡) | 🏭 |
 | **Qualité & Sécurité** | SAST — Semgrep/Bandit/Ruff (🟡) · OAuth2 / Azure AD (🟡) · RGPD (🟡) | 🏭 |
 | **Bases de données** | PostgreSQL (🟠) · MariaDB (🟠) · SQL Server (🟠) · MongoDB (⚪) · Redis (⚪) · MinIO (⚪) | 🏭 🎓 |
 | **Conteneurs & Orchestration** | Docker (🟠) · Kubernetes (🟠) · Helm (🟠) · Proxmox (🟠) · Talos (🟠) · Kustomize (🟠) | 🏭 🚀 |
@@ -54,7 +53,11 @@ J'automatise des déploiements et je construis des pipelines de données — **K
 | **BI / Data Viz** | Power BI (🟠) · Superset (🟠) · Looker Studio (⚪) · Dash (⚪) | 🏭 🎓 |
 | **Cloud** | AWS — parcours Cloud Quest Practitioner *(formation, pas la certif)* · SAA en cours (🟠) · Azure (⚪) | 🚀 🎓 |
 
-> 🔭 **En veille / découverte** *(formation, pas encore mis en pratique)* : PySpark · Kafka · Flink · Snowflake · BigQuery · Hadoop · scikit-learn · Keras · MLflow · Drift Monitoring
+> 📜 **33 certifications** suivies dans le cadre du Data Engineer **RNCP 38919** (Niveau 7) — Data/Big Data, DevOps, Dev, BI, ML/IA, RGPD.
+>
+> 🎓 **Certifiées en formation** *(Liora — pas encore mises en prod)* : PySpark · Hadoop/Hive · Snowflake · Elasticsearch · scikit-learn · Keras · MLflow · Drift Monitoring
+>
+> 🔭 **Découverte / veille** : Kafka · Flink · BigQuery
 
 ---
 
