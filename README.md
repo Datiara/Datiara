@@ -40,19 +40,19 @@ J'automatise des déploiements et je construis des pipelines de données — **K
 
 > **Niveau** : 🟢 Avancé · 🟡 Intermédiaire · ⚪ Notions — **Contexte** : 🏭 Pro (Neolithe) · 🚀 Projets perso · 🎓 Formation
 
-| Domaine | Technologies | Niveau | Contexte |
+| Domaine | Technologies (Niveau) | Contexte |
 |---|---|---|---|
-| **Conteneurs & Orchestration** | Kubernetes · Talos · Docker · Helm · Kustomize · Proxmox | 🟢 | 🏭 🚀 |
-| **CI/CD & GitOps** | GitLab CI/CD · ArgoCD · Sealed Secrets · Ansible · pre-commit | 🟢 | 🏭 🚀 |
-| **Data Engineering & Orchestration** | Prefect 3 · Airbyte · ETL/ELT · dbt · Airflow | 🟢 | 🏭 🚀 🎓 |
-| **Observabilité** | Grafana · Loki · Promtail · alerting | 🟢 | 🏭 🚀 |
-| **Qualité & Sécurité** | SAST (Semgrep/Bandit/Ruff) · OAuth2 / Azure AD · RGPD | 🟢 | 🏭 |
-| **Bases de données** | PostgreSQL · MariaDB · SQL Server · MongoDB · Redis · MinIO | 🟢 | 🏭 🎓 |
-| **Développement** | Python · FastAPI · Streamlit · Frappe · SQL · Bash | 🟢 | 🏭 🚀 |
-| **Cloud** | AWS *(Cloud Practitioner ✓, SAA en cours)* · Azure | 🟡 | 🚀 + certif |
-| **Big Data** | PySpark · Kafka · Flink · Snowflake · BigQuery · Hadoop | ⚪ | 🎓 |
-| **ML / MLOps** | scikit-learn · Keras · MLflow · Drift Monitoring | ⚪ | 🎓 |
-| **BI / Data Viz** | Power BI · Looker Studio · Superset · Dash | 🟡 | 🏭 🎓 |
+| **Conteneurs & Orchestration** | Kubernetes (🟡) · Talos (🟡) · Docker (🟢)· Helm (🟡)· Kustomize (🟡) · Proxmox (🟡) | 🏭 🚀 |
+| **CI/CD & GitOps** | GitLab CI/CD (🟢)· ArgoCD (🟢)· Sealed Secrets (🟡)· Ansible (🟡) | 🏭 🚀 |
+| **Data Engineering & Orchestration** | Prefect 3 (🟢)· Airbyte (🟡)· ETL/ELT (🟡)· dbt (🟡)· Airflow (🟡) | 🏭 🚀 🎓 |
+| **Observabilité** | Grafana (🟡)· Loki (🟡)· Promtail (🟡)· alerting (🟢) | 🏭 🚀 |
+| **Qualité & Sécurité** | SAST (Semgrep/Bandit/Ruff) (🟡)· OAuth2 / Azure AD (🟡)· RGPD (🟡) | 🏭 |
+| **Bases de données** | PostgreSQL (🟡)· MariaDB (🟡)· SQL Server (🟡)· MongoDB (🟡)· Redis (🟡)· MinIO (🟡) | 🏭 🎓 |
+| **Développement** | Python (🟢)· FastAPI (🟢)· Streamlit (🟡)· Frappe (🟢)· SQL (🟢)· Bash (🟢) | 🏭 🚀 |
+| **Cloud** | AWS *(Cloud Practitioner ✓, SAA en cours)* (🟡)· Azure | 🟡 | 🚀 + certif |
+| **Big Data** | PySpark (⚪)· Kafka (⚪)· Flink (⚪)· Snowflake (⚪)· BigQuery (⚪)· Hadoop (⚪) | 🎓 |
+| **ML / MLOps** | scikit-learn (⚪)· Keras (⚪)· MLflow (⚪)· Drift Monitoring (⚪) | 🎓 |
+| **BI / Data Viz** | Power BI (🟡)· Looker Studio (⚪)· Superset (🟡)· Dash (⚪) | 🏭 🎓 |
 
 *Profil hybride : **19 ans** en développement embarqué industriel (C/C++/C#) + spécialisation data & platform engineering.*
 
